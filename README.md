@@ -9,15 +9,6 @@ Eu sou o Fabrício Vasconcelos, sou um Programador Front End, atualmente estou c
    - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
    <br />
 
-   ### Conecte-se comigo: 
-
-   <p> 
-      <a href="https://www.linkedin.com/in/fabricio-vasconcelos-a7255622a">
-      <img> align="left" alt="linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-      </a>
-    </p>
-    <br/>
-    <br/>
 
 [![Fabrício Stats](https://github-readme-stats.vercel.app/api?username=fabriciowold3)](https://github.com/anuraghazra/github-readme-stats)
 
